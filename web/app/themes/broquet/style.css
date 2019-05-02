@@ -3222,12 +3222,8 @@ body.page .main-navigation {
   filter: grayscale(100%);
 }
 
-.site-header.featured-image .site-featured-image .entry-header {
-  margin-top: calc(4 * 1rem);
-  margin-bottom: 0;
-  margin-left: 0;
-  margin-right: 0;
-  /* Entry meta */
+.home article {
+  padding: 0 1em;
 }
 
 @media only screen and (min-width: 768px) {
@@ -4395,7 +4391,9 @@ body.page .main-navigation {
   color: #fefefe;
   line-height: 4em;
 }
-
+.site-info .left {
+  padding: 0 2em;
+}
 @media only screen and (max-width: 767px) {
   .site-info .left {
     width: 100%;

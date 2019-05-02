@@ -1,0 +1,23 @@
+{
+  "name": "broquet.ch",
+  "version": "1.0.0",
+  "description": "my personal website",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "purify-css": "^1.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decalages/broquet.git"
+  },
+  "author": "Stéphane Broquet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decalages/broquet/issues"
+  },
+  "homepage": "https://github.com/decalages/broquet#readme"
+}
